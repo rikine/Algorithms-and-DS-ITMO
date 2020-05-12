@@ -46,8 +46,8 @@ int main()
     for (auto i : ans)
     {
         for (auto j : i)
-            cout << j << ' ';
-        cout << '\n';
+            cout << j << " ";
+        cout << endl;
     }
     return 0;
 }
